@@ -1,0 +1,104 @@
+region,customer,net_sale_mln,pct
+APAC,Amazon,57.41,13.0
+APAC,Atliq Exclusive,51.58,11.7
+APAC,Atliq e Store,36.97,8.4
+APAC,Amazon,30.31,17.0
+APAC,Leader,24.52,5.5
+APAC,Sage,22.85,5.2
+APAC,Neptune,21.01,4.8
+APAC,Atliq e Store,19.83,9.9
+APAC,Amazon ,19.77,9.8
+APAC,Electricalsocity,16.25,3.7
+APAC,Atliq Exclusive,14.95,8.4
+APAC,Synthetic,14.14,3.2
+APAC,Propel,14.14,3.2
+APAC,Atliq Exclusive,13.39,6.7
+APAC,Flipkart,12.96,2.9
+APAC,Novus,12.91,2.9
+APAC,Expression,12.9,2.9
+APAC,walmart,12.63,7.1
+APAC,Atliq e Store,12.42,7.0
+APAC,Costco,12.19,6.9
+APAC,Staples,11.49,6.5
+APAC,Girias,11.3,2.6
+APAC,Vijay Sales,11.27,2.5
+APAC,Ebay,11.14,2.5
+APAC,Reliance Digital,11.1,2.5
+APAC,Electricalslytical,11.08,2.5
+APAC,Lotus,10.53,2.4
+APAC,Flipkart,10.35,5.8
+APAC,Ezone,10.3,2.3
+APAC,Viveks,10.09,2.3
+APAC,Croma,9.88,2.2
+APAC,UniEuro,9.63,4.8
+APAC,Path,9.1,5.1
+APAC,Ebay,8.74,4.9
+APAC,Acclaimed Stores,8.53,4.8
+APAC,Control,8.48,4.8
+APAC,Expert,8.38,4.2
+APAC,BestBuy,8.26,4.6
+EU,Circuit City,8.11,4.6
+EU,Chip 7,7.23,3.6
+EU,Radio Shack,7.12,4.0
+EU,Radio Popular,6.95,3.5
+EU,Zone,6.91,1.6
+EU,Media Markt,6.88,3.4
+EU,Elkjøp,6.76,3.4
+EU,Sorefoz,6.13,3.1
+EU,Acclaimed Stores,5.79,1.3
+EU,Coolblue,5.59,2.8
+EU,Elite,5.41,2.7
+EU,Boulanger,5.32,2.6
+EU,Mbit,5.18,2.6
+EU,Euronics,5.1,2.5
+EU,Electricalsquipo Stores,4.75,2.4
+EU,Electricalslytical,4.56,2.3
+EU,Taobao,4.31,1.0
+EU,Sage,4.22,2.4
+EU,Atlas Stores,4.16,2.1
+EU,Logic Stores,4.1,2.0
+EU,Digimarket,3.97,0.9
+EU,Chiptec,3.93,2.0
+EU,Forward Stores,3.83,0.9
+EU,Fnac-Darty,3.77,1.9
+EU,Nomad Stores,3.73,2.1
+EU,Premium Stores,3.7,2.1
+EU,Insight,3.61,0.8
+EU,Relief,3.61,2.0
+EU,Epic Stores,3.53,1.8
+EU,Sound,3.44,0.8
+EU,Electricalslance Stores,3.07,1.5
+EU,Argos (Sainsbury's),2.97,1.5
+EU,Surface Stores,2.78,0.6
+EU,Power,2.6,1.3
+EU,Currys (Dixons Carphone),2.43,1.2
+EU,Electricalsara Stores,2.42,1.2
+EU,Sound,2.25,1.1
+EU,Logic Stores,2.21,0.5
+EU,Synthetic,1.96,1.0
+EU,Flipkart,1.94,1.0
+EU,Epic Stores,1.93,0.4
+EU,Path,1.92,0.4
+EU,Integration Stores,1.88,0.9
+EU,Relief,1.7,0.8
+LATAM,Billa,1.65,0.8
+LATAM,Reliance Digital,1.65,0.8
+LATAM,Control,1.62,0.4
+NA,Unity Stores,1.6,0.8
+NA,Otto,1.57,0.8
+NA,Saturn,1.56,0.8
+NA,Nomad Stores,1.55,0.4
+NA,Amazon ,1.54,48.7
+NA,Info Stores,1.51,0.8
+NA,Forward Stores,1.48,0.7
+NA,Notebillig,1.47,0.7
+NA,Flawless Stores,1.47,0.7
+NA,Digimarket,1.44,0.7
+NA,Premium Stores,1.39,0.7
+NA,Atliq e Store,1.09,34.5
+NA,All-Out,1.06,0.2
+NA,Electricalsbea Stores,0.95,0.2
+NA,Flawless Stores,0.9,0.2
+NA,Info Stores,0.89,0.2
+NA,Electricalsbea Stores,0.53,16.8
+NA,Nova,0.46,0.2
